@@ -3,27 +3,101 @@
 <section class="section bd-masthead">
   <div class="container-xxl">
     <div class="col-md-8 mx-auto text-center my-5">
-      <img class="d-block mx-auto mb-3" src="{{ `images/logo.svg` | relURL }}" width="150" height="150" alt="Bootstrap">
+      <img class="d-block mx-auto mb-3" src="{{ `images/logo.jpg` | relURL }}" width="150" height="150" alt="SkySwift Drones">
       <h1 class="display-4 fw-semibold mb-3">{{ .Site.Title }}</h1>
       <p class="lead mb-4">{{ .Site.Params.Description }}</p>
-      <a class="btn btn-bd-primary btn-lg px-4 mb-2" href="https://github.com/filipecarneiro/hugo-bootstrap-theme" role="button">Get Started</a>
-      <p class="text-muted mb-0">Open-source MIT Licensed.</p>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="/services" role="button">Explore Our Services</a>
+      <p class="text-muted mb-0">Delivering the Future, One Drone at a Time.</p>
     </div>
   </div>
 </section>
 
 <section class="section container my-3">
-  {{ partial "features" . }}
+  <div class="row text-center">
+    <div class="col-md-4">
+      <img src="{{ `images/fast-delivery.jpg` | relURL }}" alt="Fast Delivery" width="100" class="mb-3">
+      <h4>🚀 Ultra-Fast Drone Delivery</h4>
+      <p>Get packages delivered in under 30 minutes with our AI-powered drones.</p>
+    </div>
+    <div class="col-md-4">
+      <img src="{{ `images/eco.jpg` | relURL }}" alt="Eco-Friendly" width="100" class="mb-3">
+      <h4>🌍 Eco-Friendly & Sustainable</h4>
+      <p>Reduce carbon emissions with our electric-powered drone fleet.</p>
+    </div>
+    <div class="col-md-4">
+      <img src="{{ `images/track.jpg` | relURL }}" alt="Live Tracking" width="100" class="mb-3">
+      <h4>📍 Live Delivery Tracking</h4>
+      <p>Track your package in real-time from pickup to doorstep.</p>
+    </div>
+  </div>
 </section>
 
-<section class="section container my-3">
-  <h3 class="text-secondary text-center my-5">Latest Posts</h3>
-  {{ partial "latest-posts" . }}
+<section class="section container my-5">
+  <h3 class="text-secondary text-center my-5">How It Works</h3>
+  <div class="row text-center">
+    <div class="col-md-4">
+      <img src="{{ `images/order.jpg` | relURL }}" alt="Order Package" width="100" class="mb-3">
+      <h5>1. Place Your Order</h5>
+      <p>Select your package and delivery location via our app.</p>
+    </div>
+    <div class="col-md-4">
+      <img src="{{ `images/drone.jpg` | relURL }}" alt="Drone Pickup" width="100" class="mb-3">
+      <h5>2. Drone Pickup</h5>
+      <p>Our drone picks up your package from the nearest hub.</p>
+    </div>
+    <div class="col-md-4">
+      <img src="{{ `images/delivery.jpg` | relURL }}" alt="Package Delivered" width="100" class="mb-3">
+      <h5>3. Safe & Secure Delivery</h5>
+      <p>Your package arrives in minutes—zero human delays.</p>
+    </div>
+  </div>
 </section>
 
-<section class="section container my-3">
-  <h3 class="text-secondary text-center my-5">Featured Pages</h3>
-  {{ partial "featured-pages" . }}
+<section class="section container my-5">
+  <h3 class="text-secondary text-center my-5">Why Choose SkySwift?</h3>
+  <div class="row text-center">
+    <div class="col-md-4">
+      <h4>⚡ Lightning-Fast Deliveries</h4>
+      <p>Faster than any traditional delivery service.</p>
+    </div>
+    <div class="col-md-4">
+      <h4>🔒 Secure & Reliable</h4>
+      <p>State-of-the-art security to protect your packages.</p>
+    </div>
+    <div class="col-md-4">
+      <h4>🌱 Sustainable</h4>
+      <p>100% electric, reducing CO₂ emissions.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section container my-5">
+  <h3 class="text-secondary text-center my-5">What Our Customers Say</h3>
+  <div class="row text-center">
+    <div class="col-md-4">
+      <blockquote class="blockquote">
+        "SkySwift delivered my package in just 10 minutes! This is the future."
+        <footer class="blockquote-footer">Alex J., New York</footer>
+      </blockquote>
+    </div>
+    <div class="col-md-4">
+      <blockquote class="blockquote">
+        "Game changer! No more waiting for deliveries. I love how eco-friendly it is."
+        <footer class="blockquote-footer">Sarah K., San Francisco</footer>
+      </blockquote>
+    </div>
+    <div class="col-md-4">
+      <blockquote class="blockquote">
+        "Insanely fast and reliable. My groceries arrived before my coffee finished brewing!"
+        <footer class="blockquote-footer">Tom R., Los Angeles</footer>
+      </blockquote>
+    </div>
+  </div>
+</section>
+
+<section class="section container my-5 text-center">
+  <h3 class="text-secondary my-5">Ready to Experience the Future?</h3>
+  <a class="btn btn-primary btn-lg px-5" href="/track">Track Your First Drone Delivery</a>
 </section>
 
 {{ end }}
