@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Skyline Alliance</title>
-    <link>http://localhost:63722/hugo-bootstrap-theme/categories/</link>
+    <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/categories/</link>
     <description>Recent content in Categories on Skyline Alliance</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 10 Feb 2025 23:08:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:63722/hugo-bootstrap-theme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Release Notes</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/categories/hugo-release-notes/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/categories/hugo-release-notes/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 -0400</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/categories/hugo-release-notes/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/categories/hugo-release-notes/</guid>
       <description></description>
     </item>
     <item>
       <title>The Bootstrap Blog</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/categories/the-bootstrap-blog/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/categories/the-bootstrap-blog/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 -0400</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/categories/the-bootstrap-blog/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/categories/the-bootstrap-blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo Bootstrap Theme</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/categories/hugo-bootstrap-theme/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/categories/hugo-bootstrap-theme/</link>
       <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/categories/hugo-bootstrap-theme/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/categories/hugo-bootstrap-theme/</guid>
       <description></description>
     </item>
   </channel>

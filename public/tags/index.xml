@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Skyline Alliance</title>
-    <link>http://localhost:63722/hugo-bootstrap-theme/tags/</link>
+    <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/</link>
     <description>Recent content in Tags on Skyline Alliance</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Feb 2025 13:03:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:63722/hugo-bootstrap-theme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/tags/hugo/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/hugo/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 -0400</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/tags/hugo/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Bootstrap</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/tags/bootstrap/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/bootstrap/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 -0400</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/tags/bootstrap/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/bootstrap/</guid>
       <description></description>
     </item>
     <item>
       <title>Featured</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/tags/featured/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/featured/</link>
       <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/tags/featured/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/featured/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Logistics</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/tags/ai-logistics/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/ai-logistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/tags/ai-logistics/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/ai-logistics/</guid>
       <description></description>
     </item>
     <item>
       <title>Autonomous Flight</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/tags/autonomous-flight/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/autonomous-flight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/tags/autonomous-flight/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/autonomous-flight/</guid>
       <description></description>
     </item>
     <item>
       <title>Drone Delivery</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/tags/drone-delivery/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/drone-delivery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/tags/drone-delivery/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/drone-delivery/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/tags/index/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/tags/index/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:63722/hugo-bootstrap-theme/tags/privacy/</link>
+      <link>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63722/hugo-bootstrap-theme/tags/privacy/</guid>
+      <guid>http://localhost:63986/MichaelRenDudu/hugo-mock-landing-page.git/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>

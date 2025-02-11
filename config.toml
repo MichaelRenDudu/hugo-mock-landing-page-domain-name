@@ -1,6 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://github.com/MichaelRenDudu/hugo-mock-landing-page.git'
 title = "Skyline Alliance"
 author = "Michael Ren"
+
 
 
 timeZone = 'America/New_York'
